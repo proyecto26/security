@@ -2,10 +2,11 @@
 Tech stuff about security
 
 ## Tools
-- Wappalyzer: https://www.wappalyzer.com/apps/
-- EditThisCookie: https://www.editthiscookie.com/
-- WhatWeb: https://github.com/urbanadventurer/WhatWeb
-- User-Agent Switcher: https://chromewebstore.google.com/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg
+- Wappalyzer: [Identify technologies on websites](https://www.wappalyzer.com/apps/)
+- EditThisCookie: [Chromium extension for editing cookies](https://www.editthiscookie.com/)
+- WhatWeb: [Next generation web scanner](https://github.com/urbanadventurer/WhatWeb)
+- User-Agent Switcher: [Spoofs & Mimics User-Agent strings.](https://chromewebstore.google.com/detail/djflhoibgkdhkhhcedjiklpkjnoahfmg)
+- nmap: [Port scanning utility for large networks](https://formulae.brew.sh/formula/nmap)
 
 ## Concepts:
 
