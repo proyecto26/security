@@ -5,6 +5,7 @@ Tech stuff about security
 - https://www.hackerone.com/
 
 ## Tools
+- Google dork cheatsheet: [Nice queries from google for advanced search](https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06)
 - Wappalyzer: [Identify technologies on websites](https://www.wappalyzer.com/apps/)
 - EditThisCookie: [Chromium extension for editing cookies](https://www.editthiscookie.com/)
 - WhatWeb: [Next generation web scanner](https://github.com/urbanadventurer/WhatWeb)
