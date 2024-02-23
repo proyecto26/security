@@ -23,6 +23,7 @@ Tech stuff about security
 - getallurls (gau): [Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl](https://github.com/lc/gau)
 - Findomain: [The fastest and complete solution for domain recognition.](https://github.com/Findomain/Findomain)
 - Arjun: [HTTP parameter discovery suite.](https://github.com/s0md3v/Arjun)
+- Github Dorks: [Find leaked secrets via github search](https://github.com/techgaun/github-dorks)
 
 ## Concepts:
 
