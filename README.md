@@ -8,6 +8,7 @@ Tech stuff about security
 
 - Google Hacking Database: https://www.exploit-db.com/google-hacking-database
 - Google dork cheatsheet: [Nice queries from google for advanced search](https://gist.github.com/sundowndev/283efaddbcf896ab405488330d1bbc06)
+- crt.sh: [Certificate Search](https://crt.sh/)
 
 ## Tools
 - Wappalyzer: [Identify technologies on websites](https://www.wappalyzer.com/apps/)
