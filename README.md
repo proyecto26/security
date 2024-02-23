@@ -4,6 +4,7 @@ Tech stuff about security
 ## Commands
 - `site:postman.com my-domain.com` - Find postman collections for your website from Google
 - `subfinder -d my-domain.com -o results.txt` - Find all subdomains
+- `ping -c 1 my-domain.com -R` - send a echo request to the domain to get a return route
 
 ## Jobs
 - https://www.hackerone.com/
@@ -29,6 +30,7 @@ Tech stuff about security
 - Findomain: [The fastest and complete solution for domain recognition.](https://github.com/Findomain/Findomain)
 - Arjun: [HTTP parameter discovery suite.](https://github.com/s0md3v/Arjun)
 - Github Dorks: [Find leaked secrets via github search](https://github.com/techgaun/github-dorks)
+- httprobe: [Take a list of domains and probe for working HTTP and HTTPS servers](https://github.com/tomnomnom/httprobe)
 
 ## Concepts:
 
