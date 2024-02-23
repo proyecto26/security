@@ -1,6 +1,10 @@
 # security
 Tech stuff about security
 
+## Commands
+- `site:postman.com my-domain.com` - Find postman collections for your website from Google
+- `subfinder -d my-domain.com -o results.txt` - Find all subdomains
+
 ## Jobs
 - https://www.hackerone.com/
 
